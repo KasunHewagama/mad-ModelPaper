@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IT18165180</string>
+    <string name="home">Home</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="add">ADD</string>
+    <string name="update_profile">UPDATE PROFILE</string>
+    <string name="profile_management">Profile Management</string>
+    <string name="dateofbirth">Date of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="editprofile">Edit Profile</string>
+    <string name="search">SEARCH</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="gender">Gender</string>
+</resources>
